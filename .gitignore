@@ -1,0 +1,5 @@
+pyvenv.cfg
+[Ss]cripts
+[Ll]ib
+[Ii]nclude
+*.pyc
